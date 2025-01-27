@@ -59,7 +59,7 @@ Here are some of my recent projects:
 
 [![Code Medic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-medic-official&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)](https://github.com/medic-official/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-medic-official&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-medic-official&layout=donut&theme=radical)](https://github.com/Code-medic-official/github-readme-stats)
 <!--
 ## 📝 Blog Posts
 
