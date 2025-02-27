@@ -78,5 +78,5 @@ Feel free to reach out to me on:
 
 ---
 
-**[Chris Topher](https://twitter.com/mwanikigachina)** | **[Kenyan Bitcoiner](https://twitter.com/kenyanbitcoiner)**<!--[Your Portfolio](#) | [Your Blog](#)-->
+<!--[Your Portfolio](#) | [Your Blog](#)-->
 
