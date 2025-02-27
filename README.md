@@ -74,7 +74,7 @@ Feel free to reach out to me on:
 
 - **[LinkedIn](https://www.linkedin.com/in/mwanikigachina)**
 - **[Twitter](https://twitter.com/mwanikigachina)**
-- **[Email](mailto:mwanikigachina@gmail.com)**
+- **[Email](mailto:codemedic2@gmail.com)**
 
 ---
 
